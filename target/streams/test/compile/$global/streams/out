@@ -1,0 +1,40 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set(/home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala)
+[debug] 	added: Set(/home/arbuz55555/projects/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala)
+[debug] 	modified: Set()
+[debug] Removed products: Set(/home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/target/scala-2.11/test-classes/v22/adt/Example1Spec$$anonfun$1.class, /home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/target/scala-2.11/test-classes/v22/adt/Example1Spec$$anonfun$1$$anonfun$apply$1$$anonfun$apply$7.class, /home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/target/scala-2.11/test-classes/v22/adt/Example1Spec$$anonfun$1$$anonfun$apply$1$$anonfun$apply$5.class, /home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/target/scala-2.11/test-classes/v22/adt/Example1Spec.class, /home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/target/scala-2.11/test-classes/v22/adt/Example1Spec$$anonfun$1$$anonfun$apply$1$$anonfun$apply$6.class, /home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/target/scala-2.11/test-classes/v22/adt/Example1Spec$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class, /home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/target/scala-2.11/test-classes/v22/adt/Example1Spec$$anonfun$1$$anonfun$apply$1$$anonfun$apply$4.class, /home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/target/scala-2.11/test-classes/v22/adt/Example1Spec$$anonfun$1$$anonfun$apply$1.class, /home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/target/scala-2.11/test-classes/v22/adt/Example1Spec$$anonfun$1$$anonfun$apply$1$$anonfun$apply$3.class)
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(/home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala, /home/arbuz55555/projects/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(/home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(/home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala, /home/arbuz55555/projects/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala)
+[debug] Recompiling all 1 sources: invalidated sources (2) exceeded 50.0% of all sources
+[info] Compiling 1 Scala source to /home/arbuz55555/projects/testing-hapi-hl7-scala/target/scala-2.11/test-classes...
+[debug] Getting compiler-interface from component compiler for Scala 2.11.5
+[debug] Getting compiler-interface from component compiler for Scala 2.11.5
+[debug] Running cached compiler 3b490517, interfacing (CompilerInterface) with Scala compiler version 2.11.5
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-7-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk/jre/classes:/home/arbuz55555/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+[debug] 	-classpath
+[debug] 	/home/arbuz55555/projects/testing-hapi-hl7-scala/target/scala-2.11/test-classes:/home/arbuz55555/projects/testing-hapi-hl7-scala/target/scala-2.11/classes:/home/arbuz55555/.ivy2/cache/ca.uhn.hapi/hapi-base/jars/hapi-base-2.2.jar:/home/arbuz55555/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.6.jar:/home/arbuz55555/.ivy2/cache/ca.uhn.hapi/hapi-structures-v22/jars/hapi-structures-v22-2.2.jar:/home/arbuz55555/.ivy2/cache/org.specs2/specs2-core_2.11/jars/specs2-core_2.11-2.4.15.jar:/home/arbuz55555/.ivy2/cache/org.specs2/specs2-matcher_2.11/jars/specs2-matcher_2.11-2.4.15.jar:/home/arbuz55555/.ivy2/cache/org.specs2/specs2-common_2.11/jars/specs2-common_2.11-2.4.15.jar:/home/arbuz55555/.ivy2/cache/org.scalaz/scalaz-core_2.11/bundles/scalaz-core_2.11-7.1.0.jar:/home/arbuz55555/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar:/home/arbuz55555/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/home/arbuz55555/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/bundles/scalaz-concurrent_2.11-7.1.0.jar:/home/arbuz55555/.ivy2/cache/org.scalaz/scalaz-effect_2.11/bundles/scalaz-effect_2.11-7.1.0.jar:/home/arbuz55555/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.4.jar
+[debug] Scala compilation took 7.990795904 s
+[debug] Invalidating by inheritance (transitively)...
+[debug] Initial set of included nodes: Set(/home/arbuz55555/projects/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala)
+[debug] Invalidated by transitive public inheritance: Set(/home/arbuz55555/projects/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala)
+[debug] Invalidated by direct dependency: Set()
+[debug] Invalidating by inheritance (transitively)...
+[debug] Initial set of included nodes: Set(/home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala)
+[debug] Invalidated by transitive public inheritance: Set(/home/arbuz55555/projects/akka-in-action/testing-hapi-hl7-scala/src/test/scala/v22/adt/Example1Spec.scala)
+[debug] Invalidated by direct dependency: Set()
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated sources after taking into account (previously) recompiled sources:Set()

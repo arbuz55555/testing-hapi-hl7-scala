@@ -1,0 +1,9 @@
+[info] Example1Spec
+[info] 
+[info] ADT message should
+[info] + has ADT type A01 and Patient with familyName 'SMITH'
+[info] 
+[info] Total for specification Example1Spec
+[info] Finished in 16 ms
+[info] 1 example, 0 failure, 0 error
+[info]  

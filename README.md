@@ -1,2 +1,2 @@
 # testing-hapi-hl7-scala
-Testing hapi hl7 using Scala
+Testing hapi http://hl7api.sourceforge.net hl7 using Scala

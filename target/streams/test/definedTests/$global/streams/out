@@ -1,2 +1,0 @@
-[debug] Subclass fingerprints: List((org.specs2.specification.SpecificationStructure,true,specs2 Specification fingerprint), (org.specs2.specification.SpecificationStructure,false,specs2 Specification fingerprint), (org.specs2.runner.FilesRunner,true,specs2 Specification files fingerprint), (org.specs2.runner.FilesRunner,false,specs2 Specification files fingerprint))
-[debug] Annotation fingerprints: List()
